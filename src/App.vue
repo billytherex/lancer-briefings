@@ -103,7 +103,7 @@ export default {
         {
           "callsign": "LOU15",
           "alias": "Louis Atherton",
-          "code": "Atherton.Louis."LOU15":d3fd182a-a624-47af-9941-7747af6ebecd//NDL-C-SIGMA-SKY",
+          "code": "Atherton.Louis:d3fd182a-a624-47af-9941-7747af6ebecd//NDL-C-SIGMA-SKY",
           "corpro": "HORUS",
           "frame": "Gorgon",
           "mech": "Piss Master"
