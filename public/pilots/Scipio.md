@@ -13,5 +13,5 @@ But Macolm was not just a skilled fighter. He was street-smart, with a deep unde
 As Macolm stepped into his mech, he knew that he was a force to be reckoned with. He had the skills, the knowledge, and the sheer force of will to take on anyone who dared to stand in his way. And he did it all with a cool, calculating demeanor that belied the fury that burned within him.//
 
 ## NOTES
-###//::UIB ADDENDUM
+### //::UIB ADDENDUM
 //The hacker known as Scipio is suspected to have direct ties within circles of HORUS . Exercise caution.//
