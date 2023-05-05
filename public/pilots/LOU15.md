@@ -1,3 +1,4 @@
+## COMP/CON ANALYSIS
 //::Louis Atherton was a mech pilot who had spent most of his life as a colonist on the outskirts of civilization. As such, he had a unique set of skills that made him invaluable to his team.
  
 Louis was able to repair devices with ease, but he was also a skilled saboteur, able to disable enemy equipment and disrupt their plans. He was always investigating and researching, trying to stay one step ahead of his enemies.
