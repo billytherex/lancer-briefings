@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "006",
-          "name": "Arrival and Investigation",
+          "name": "Sands of Silence",
           "status": "start"
         },
         {
