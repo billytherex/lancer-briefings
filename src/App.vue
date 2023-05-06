@@ -131,7 +131,7 @@ export default {
           "code": "Atherton.Louis:d3fd182a-a624-47af-9941-7747af6ebecd//NDL-C-SIGMA-SKY",
           "corpro": "HORUS",
           "frame": "Gorgon",
-          "mech": "Piss Master"
+          "mech": "Voice of Roa"
         },
         {
           "callsign": "Zen",
