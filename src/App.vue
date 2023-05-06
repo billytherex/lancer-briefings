@@ -89,14 +89,39 @@ export default {
 
   data() {
     return {
-      "mission_slug": "005",
+      "mission_slug": "006",
       "current_md": "",
       "events": "",
       "missions": [
         {
-          "slug": "005",
+          "slug": "006",
           "name": "Arrival and Investigation",
           "status": "start"
+        },
+        {
+          "slug": "005",
+          "name": "Split-Knuckle Haymaker",
+          "status": "success"
+        },        
+        {
+          "slug": "004",
+          "name": "Rallying Cry",
+          "status": "success"
+        },        
+        {
+          "slug": "003",
+          "name": "Floodgate",
+          "status": "success"
+        },
+        {
+          "slug": "002",
+          "name": "Vigilant Gaze",
+          "status": "success"
+        },
+        {
+          "slug": "001",
+          "name": "Bug-Hunt",
+          "status": "success"
         },
       ],
       "pilots": [
