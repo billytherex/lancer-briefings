@@ -126,9 +126,9 @@ export default {
       ],
       "pilots": [
         {
-          "callsign": "LOU15",
-          "alias": "Louis Atherton",
-          "code": "Atherton.Louis:d3fd182a-a624-47af-9941-7747af6ebecd//NDL-C-SIGMA-SKY",
+          "callsign": "Interpreter",
+          "alias": "REDACTED",
+          "code": "REDACTED:d3fd182a-a624-47af-9941-7747af6ebecd//NDL-C-SIGMA-SKY",
           "corpro": "HORUS",
           "frame": "Gorgon",
           "mech": "Voice of Roa"
