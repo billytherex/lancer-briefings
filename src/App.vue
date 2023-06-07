@@ -89,14 +89,19 @@ export default {
 
   data() {
     return {
-      "mission_slug": "006",
+      "mission_slug": "007",
       "current_md": "",
       "events": "",
       "missions": [
-        {
+       {
+          "slug": "007",
+          "name": "Services Rendered",
+          "status": "start"
+        },
+       {
           "slug": "006",
           "name": "Sands of Silence",
-          "status": "start"
+          "status": "success"
         },
         {
           "slug": "005",
