@@ -10,6 +10,7 @@ His reputation as a mobile fighter precedes him on the battlefield. Doss excels 
 
 ## //::UNIQUE TACTICS
 One of Doss's trademark tactics, 'Heat Running,' stems from his willingness to push his mech suit to its limits. By operating at near maximum heat capacity, he benefits from increased performance in terms of speed and firepower. This daring style of operation is a double-edged sword; while it gives him an edge in combat, it also runs the risk of overheating and potential system failure.
+
 Yet, Doss's experience as a mechanic allows him to manage this precarious balance expertly, pushing the envelope without crossing the line into catastrophic failure. This high-risk, high-reward tactic has proven effective, lending him an element of unpredictability that adversaries find challenging to counter.
 
 ## //::CONCLUSION
