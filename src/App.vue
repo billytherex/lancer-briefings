@@ -139,12 +139,12 @@ export default {
           "mech": "Voice of Roa"
         },
         {
-          "callsign": "Zen",
-          "alias": "Jiren Budai",
-          "code": "Budai.Jiren:d949dced-dc86-4ff3-ae81-52d64dc4e433//NDL-C-DIRE-BEAM",
-          "corpro": "IPS-N",
-          "frame": "Nelson",
-          "mech": "Atlas"
+          "callsign": "Doss",
+          "alias": "Adrian Dossus",
+          "code": "Dossus.Adrian:cabcbebb-e61a-4331-a807-521770d0a3c7//NDL-C-DEEP-NOVEMBER",
+          "corpro": "HA",
+          "frame": "Sherman",
+          "mech": "BoomBox v2.0"
         },
         {
           "callsign": "Danger",
