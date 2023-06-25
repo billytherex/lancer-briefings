@@ -150,9 +150,9 @@ export default {
           "callsign": "Danger",
           "alias": "Ein Jo Min",
           "code": "Min.Ein.Jo:c7d4ccd2-a367-41b1-a03b-4b16e39aa777//NDL-C-IOTA-WATCHMAKER",
-          "corpro": "SSC",
-          "frame": "Emperor",
-          "mech": "Objection"
+          "corpro": "IC",
+          "frame": "Pollux",
+          "mech": "Surf the Redline"
         },
         {
           "callsign": "Scipio",
